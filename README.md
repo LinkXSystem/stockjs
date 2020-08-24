@@ -14,6 +14,10 @@ http://fund.eastmoney.com/Company/80163340.html
 
 http://fund.eastmoney.com/008892.html
 
+- 股票的详细信息
+
+http://quote.eastmoney.com/sz002555.html
+
 - 北上资金
 
 http://data.eastmoney.com/hsgt/index.html
