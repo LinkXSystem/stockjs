@@ -1,17 +1,17 @@
 {
   "name": "stockjs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "zhi",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
     "dotenv": "^8.2.0",
-    "prettier": "^2.0.5",
-    "puppeteer": "^5.2.1"
+    "prettier": "^2.0.5"
   }
 }
